@@ -7,6 +7,7 @@ This repo contains all of the code of "Build a Semantic Book Recommender with LL
 - Creating a web application using Gradio for users to get book recommendations (code in the file gradio-dashboard.py). <br>
 <br>
 This project was initially created in Python 3.11. In order to run the project, the following dependencies are required:
+
 - kagglehub
 - pandas
 - matplotlib
